@@ -21,6 +21,23 @@
 - [x] Video 13
 - [x] Video 14
 - [x] Video 15
+
+### Important Things I learned :
+
+#### **Canny Egde Detection:**
+Canny Edge Detection is an edge detection operator that is uses a multistage algorithm to detect a wide range of edges in images. For more information click [here](https://en.wikipedia.org/wiki/Canny_edge_detector#:~:text=The%20Canny%20edge%20detector%20is,explaining%20why%20the%20technique%20works.).
+
+The main steps in this algorithms are as follows:
+
+- Grayscale Conversion
+- Gaussian Blur
+- Determing the Intensity Gradients
+- Non Maxima Suppression
+- Double Thresholding
+- Edge Tracking by Hysteresis
+
+For **Detailed Explaination** click [here](http://justin-liang.com/tutorials/canny/)
+
 ## Day 2
 - [ ] Video 16
 - [ ] Video 17
