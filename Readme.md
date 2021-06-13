@@ -1,5 +1,10 @@
-# This is Status of learning CV
+# Revising CV for Internship
 
+> This is just for reference how many i am able to do every day
+- Total - 127 videos
+- Following these Lectures : [link](https://www.youtube.com/playlist?list=PLQgNi_PlCHx3tO8XUz8x86r1aMER0bbu3)
+
+## Day 1
 - [x] Video 0
 - [x] Video 1
 - [x] Video 2
@@ -16,6 +21,7 @@
 - [x] Video 13
 - [x] Video 14
 - [x] Video 15
+## Day 2
 - [ ] Video 16
 - [ ] Video 17
 - [ ] Video 18
