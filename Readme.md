@@ -1,6 +1,6 @@
 # Revising CV for Internship
 
-> This is just for reference how many i am able to do every day
+> This is just for reference how many i am able to do each day
 - Total - 127 videos
 - Following these Lectures : [link](https://www.youtube.com/playlist?list=PLQgNi_PlCHx3tO8XUz8x86r1aMER0bbu3)
 
